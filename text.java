@@ -3,5 +3,6 @@ public class text {
 
         System.out.println("nnnn" );
         System.out.println("nihao");
+        System.out.println("nihlai");
     }
 }
